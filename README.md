@@ -1,2 +1,3 @@
 # hello-world
-A new respository
+
+Hi, I click 20 cps.
